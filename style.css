@@ -1,7 +1,7 @@
 :root {
   --laranja: #FFC300;
-  --branco: #ffffff;
-  --texto: #ffffff;
+  --branco: #000000;
+  --texto: #000000;
 }
 * { box-sizing: border-box; }
 
