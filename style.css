@@ -44,7 +44,7 @@ a.button:hover    { opacity: 0.85; transform: translateY(-2px); }
 
 /* Logo */
 .logo {
-  max-width: 140px;
+  max-width: 250px;
   width: 30%;
   height: auto;
   margin-bottom: 1.5rem;
